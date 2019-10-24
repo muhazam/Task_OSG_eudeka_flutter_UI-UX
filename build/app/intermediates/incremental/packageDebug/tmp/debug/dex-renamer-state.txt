@@ -1,0 +1,4 @@
+#Thu Oct 24 01:02:09 WIB 2019
+base.0=/media/zams/DATA/OSG_eudeka/ui_ux_eudeka/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
